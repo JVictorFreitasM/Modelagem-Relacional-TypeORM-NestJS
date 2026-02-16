@@ -28,6 +28,11 @@ Projeto de estudo focado em modelagem de banco de dados relacional utilizando **
 O objetivo é praticar a criação de entidades e seus relacionamentos (One-to-Many, Many-to-One e Many-to-Many), aplicando boas práticas de organização em camadas.
 
 ---
+## Diagrama de ER
+
+<img width="467" height="436" alt="entidades e relacionamentos" src="https://github.com/user-attachments/assets/b291de14-1379-4e9f-9492-89cc708e83e8" />
+
+---
 
 ## 🚀 Tecnologias
 
@@ -50,7 +55,7 @@ git clone https://github.com/JVictorFreitasM/Modelagem-Relacional-TypeORM-NestJS
 ### 2️⃣ Instalar dependências
 
 ```bash
-npm install nest @nest/typeorm typeorm
+npm install 
 ```
 
 ### 3️⃣ Configurar o banco de dados
